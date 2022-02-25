@@ -5,6 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Authinator
     url: https://www.authinator.com
+  - name: Authinator SMTP
+    check: "tcp-ping"
+    url: mail.authinator.com
+    port: 25
 assignees:
   - nickadam
 
