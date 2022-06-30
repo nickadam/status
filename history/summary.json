@@ -4,19 +4,19 @@
     "url": "https://www.authinator.com",
     "icon": "https://favicons.githubusercontent.com/www.authinator.com",
     "slug": "authinator",
-    "status": "up",
-    "uptime": "97.49%",
-    "uptimeDay": "27.96%",
-    "uptimeWeek": "66.35%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "97.49%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "28.90%",
+    "uptimeWeek": "66.34%",
+    "uptimeMonth": "89.78%",
+    "uptimeYear": "97.55%",
     "time": 279,
     "timeDay": 247,
     "timeWeek": 246,
     "timeMonth": 253,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-06-30": 827,
+      "2022-06-30": 828,
       "2022-06-29": 1124,
       "2022-06-28": 732,
       "2022-06-27": 177,
@@ -25,7 +25,7 @@
       "2022-06-24": 260,
       "2022-06-23": 146,
       "2022-06-22": 706,
-      "2022-06-21": 367
+      "2022-06-21": 255
     }
   },
   {
