@@ -4,11 +4,11 @@
     "url": "https://www.authinator.com",
     "icon": "https://favicons.githubusercontent.com/www.authinator.com",
     "slug": "authinator",
-    "status": "up",
+    "status": "down",
     "uptime": "97.39%",
-    "uptimeDay": "33.90%",
-    "uptimeWeek": "55.54%",
-    "uptimeMonth": "88.98%",
+    "uptimeDay": "34.46%",
+    "uptimeWeek": "55.53%",
+    "uptimeMonth": "89.01%",
     "uptimeYear": "97.39%",
     "time": 278,
     "timeDay": 257,
@@ -16,7 +16,7 @@
     "timeMonth": 253,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-07-02": 369,
+      "2022-07-02": 370,
       "2022-07-01": 917,
       "2022-06-30": 975,
       "2022-06-29": 1124,
@@ -25,7 +25,7 @@
       "2022-06-26": 161,
       "2022-06-25": 94,
       "2022-06-24": 260,
-      "2022-06-23": 21
+      "2022-06-23": 4
     }
   },
   {
@@ -34,11 +34,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "authinator-smtp",
     "status": "down",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.70%",
+    "uptimeYear": "95.71%",
     "time": 59,
     "timeDay": 0,
     "timeWeek": 0,
