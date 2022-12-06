@@ -4,18 +4,19 @@
     "url": "https://www.authinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.authinator.com.ico",
     "slug": "authinator",
-    "status": "up",
-    "uptime": "94.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "94.30%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.29%",
+    "uptimeYear": "94.30%",
     "time": 270,
-    "timeDay": 304,
-    "timeWeek": 267,
-    "timeMonth": 264,
+    "timeDay": 350,
+    "timeWeek": 283,
+    "timeMonth": 268,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2022-12-06": 1,
       "2022-10-06": 836,
       "2022-10-05": 1094,
       "2022-09-27": 61,
@@ -40,7 +41,7 @@
       "2022-06-29": 1124,
       "2022-06-28": 732,
       "2022-06-27": 177,
-      "2022-06-26": 85
+      "2022-06-26": 61
     }
   },
   {
