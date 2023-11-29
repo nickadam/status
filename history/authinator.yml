@@ -1,7 +1,7 @@
 url: https://www.authinator.com
-status: up
-code: 200
-responseTime: 302
-lastUpdated: 2023-11-28T23:05:08.873Z
+status: down
+code: 502
+responseTime: 202
+lastUpdated: 2023-11-29T12:32:57.710Z
 startTime: 2022-02-24T00:19:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
