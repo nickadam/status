@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.authinator.com.ico",
     "slug": "authinator",
     "status": "up",
-    "uptime": "90.09%",
+    "uptime": "90.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.69%",
-    "time": 236,
-    "timeDay": 173,
-    "timeWeek": 252,
-    "timeMonth": 189,
+    "uptimeYear": "89.97%",
+    "time": 237,
+    "timeDay": 311,
+    "timeWeek": 251,
+    "timeMonth": 196,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2023-12-01": 128,
@@ -55,8 +55,7 @@
       "2023-03-13": 1091,
       "2023-01-10": 933,
       "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-08": 1440
     }
   }
 ]
